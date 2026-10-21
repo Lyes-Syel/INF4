@@ -6,4 +6,4 @@ Ce repo contient tout les travaux réalisés dans le cadre de l'atelier python I
 Les notebooks sont présents dans le dossier 'notebooks', ainsi que le notebooks 05 du projet de groupe1;
 
 ## Participants
-FOUANT Yousra, LECHAIX Thomas, MANSOUR Fatma, SOUDANI Lyes
+FOUANAT Yousra, LECHAIX Thomas, MANSOUR Fatma, SOUDANI Lyes
