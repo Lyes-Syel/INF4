@@ -1,0 +1,7 @@
+Étape / Catégorie,Nombre de lignes
+1. Lignes brutes en entrée (Raw Input),252
+2. Doublons exacts supprimés,-2
+3. Rejets de qualité (sales_review),-6
+4. Lignes nettoyées (sales_valid),244
+5. Rejets d'intégration (integration_review),-2
+6. Population finale d'analyse (analysis),242
